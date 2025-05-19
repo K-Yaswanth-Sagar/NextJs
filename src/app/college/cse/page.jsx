@@ -1,4 +1,4 @@
-const page = () => {
+const cse = () => {
   return (
     <div>
         <h1>This is CSE branch</h1>
@@ -6,4 +6,4 @@ const page = () => {
   )
 }
 
-export default page
+export default cse

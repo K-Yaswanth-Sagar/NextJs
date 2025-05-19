@@ -1,7 +1,10 @@
+// import styles from "../../../page.module.css"
+import cse from "../cse.module.css"
+
 const page = () => {
   return (
     <div>
-        <h1>Python has simple syntax</h1>
+        <h1 className={cse.branch}>Python has simple syntax</h1>
     </div>
   )
 }
